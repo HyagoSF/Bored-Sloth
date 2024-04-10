@@ -6,6 +6,12 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
+    <string name="slogan">Never be bored again!</string>
+    <string name="buttonInstruction">Get Random Activity</string>
+    <string name="powered">Powered by bored-api.appbrewery.com</string>
+    <string name="imgDescription">image</string>
+    <string name="header">Your Activity:</string>
+
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
         volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
